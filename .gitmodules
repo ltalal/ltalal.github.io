@@ -1,0 +1,3 @@
+[submodule "LatvianVocabulary"]
+	path = LatvianVocabulary
+	url = https://github.com/ltalal/LatvianVocabulary.git
